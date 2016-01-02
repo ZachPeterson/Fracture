@@ -1,4 +1,4 @@
-PRODUCT_NAME       = Fractured
+PRODUCT_NAME       = Fracture
 SOURCES            = main.c font.c level.c myLib.c dmaLib.c interruptLib.c soundLib.c spriteLib.c text.c buttonLib.c videoLib.c ./assets/music/gameSong.c ./assets/music/menuSong.c ./assets/music/entangledSong.c ./assets/music/loseSong.c ./assets/music/winSong.c ./assets/art/logo.c ./assets/art/spriteSheet.c ./assets/art/introMovie.c ./assets/art/menu.c ./assets/art/instructions.c ./assets/art/pauseScreen.c ./assets/art/winScreen.c ./assets/art/loseScreen.c ./assets/art/entangledScreen.c ./assets/art/level1Dimension0.c ./assets/art/level1Dimension0CollisionMap.c ./assets/art/level1Dimension1.c ./assets/art/level1Dimension1CollisionMap.c ./assets/art/level2Dimension0.c ./assets/art/level2Dimension0CollisionMap.c ./assets/art/level2Dimension1.c ./assets/art/level2Dimension1CollisionMap.c ./assets/sound/jump.c ./assets/sound/shift.c ./assets/art/smokeBackground.c
 
 DKPATH             = C:/GBA/devkitARM/bin
